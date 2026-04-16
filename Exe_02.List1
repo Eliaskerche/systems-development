@@ -1,0 +1,11 @@
+namespace Trabalho
+{
+public partial class Form1 : Form
+{
+double n1, n2, n3, n4, n5, res, req;
+public Form1()
+{
+InitializeComponent();
+}
+
+}
